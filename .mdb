@@ -1,0 +1,10 @@
+{
+  "projectName": "EMS",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node8"
+  },
+  "hash": "77c77d58"
+}
